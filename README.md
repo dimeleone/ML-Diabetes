@@ -25,7 +25,7 @@ Este projeto desenvolve um sistema de triagem inteligente que identifica pessoas
 ## 🚀 Como Rodar o Projeto
 
 ### Pré-requisitos
-- Python 3.8 ou superior
+- Python 3.12 ou superior
 - pip (gerenciador de pacotes do Python)
 
 ### Passo 1: Instalar Python e pip (Windows PowerShell)
