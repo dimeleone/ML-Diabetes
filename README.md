@@ -25,7 +25,7 @@ Este projeto desenvolve um sistema de triagem inteligente que identifica pessoas
 ## 🚀 Como Rodar o Projeto
 
 ### Pré-requisitos
-- Python 3.8 ou superior
+- Python 3.12 ou superior
 - pip (gerenciador de pacotes do Python)
 
 ### Passo 1: Instalar Python e pip (Windows PowerShell)
@@ -92,7 +92,6 @@ C:\Users\Dimitri\Desktop\Projeto\
 ├── projeto.ipynb          # Notebook principal com todo o código
 ├── diabetes_dataset.csv   # Dataset com 10.000 registros
 ├── requirements.txt       # Dependências do projeto
-├── ROTEIRO_VIDEO.md       # Roteiro para apresentação em vídeo
 └── README.md              # Este arquivo
 ```
 
